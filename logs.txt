@@ -1,0 +1,4 @@
+2021-10-22 16:18:57,706 INFO: This will not show up. 
+2021-10-22 16:18:57,706 WARNING: This will.
+2021-10-22 16:18:57,707 DEBUG: This is a debug message
+2021-10-22 16:18:57,707 CRITICAL: A critical error ocurred.
